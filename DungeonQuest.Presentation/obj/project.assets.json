@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucija\\Desktop\\Uni\\3. godina\\Internship\\Homework\\internship-4-oop-dungeon-quest\\DungeonQuest.Data\\DunegonQuest.Presentation\\DunegonQuest.Presentation.csproj",
-      "projectName": "DunegonQuest.Presentation",
-      "projectPath": "C:\\Users\\Lucija\\Desktop\\Uni\\3. godina\\Internship\\Homework\\internship-4-oop-dungeon-quest\\DungeonQuest.Data\\DunegonQuest.Presentation\\DunegonQuest.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\Lucija\\Desktop\\Uni\\3. godina\\Internship\\Homework\\internship-4-oop-dungeon-quest\\DungeonQuest.Data\\DunegonQuest.Presentation\\DungeonQuest.Presentation.csproj",
+      "projectName": "DungeonQuest.Presentation",
+      "projectPath": "C:\\Users\\Lucija\\Desktop\\Uni\\3. godina\\Internship\\Homework\\internship-4-oop-dungeon-quest\\DungeonQuest.Data\\DunegonQuest.Presentation\\DungeonQuest.Presentation.csproj",
       "packagesPath": "C:\\Users\\Lucija\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lucija\\Desktop\\Uni\\3. godina\\Internship\\Homework\\internship-4-oop-dungeon-quest\\DungeonQuest.Data\\DunegonQuest.Presentation\\obj\\",
       "projectStyle": "PackageReference",

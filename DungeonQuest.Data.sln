@@ -7,7 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonQuest.Data", "Dungeo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonQuest.Domain", "DungeonQuest.Domain\DungeonQuest.Domain.csproj", "{E611246A-8EDD-4319-98B2-FE84788BBC84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DunegonQuest.Presentation", "DunegonQuest.Presentation\DunegonQuest.Presentation.csproj", "{9A41E75C-CA31-42BE-B4FA-1A7C89AF5884}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonQuest.Presentation", "DunegonQuest.Presentation\DungeonQuest.Presentation.csproj", "{9A41E75C-CA31-42BE-B4FA-1A7C89AF5884}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E611246A-8EDD-4319-98B2-FE84788BBC84} = {E611246A-8EDD-4319-98B2-FE84788BBC84}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
